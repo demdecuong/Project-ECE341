@@ -1,4 +1,4 @@
-This is a project of ECE341 course
+# Project ECE341
 
 Our task is simulate polish notation in mips.
 
