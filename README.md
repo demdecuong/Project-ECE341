@@ -1,5 +1,11 @@
 # Project ECE341
 
+Member list
+
+Nguyen Phuc Minh
+
+Le Thanh Binh
+
 Our task is simulate polish notation in mips.
 
 Given an input file, we should generate a Prefix.txt/Postfix.txt for storing the decode expression
