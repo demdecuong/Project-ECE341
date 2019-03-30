@@ -1,10 +1,10 @@
 # Project ECE341
 
-Member list
+Our member:
 
-Nguyen Phuc Minh
+1.Nguyen Phuc Minh
 
-Le Thanh Binh
+2.Le Thanh Binh
 
 Our task is simulate polish notation in mips.
 
