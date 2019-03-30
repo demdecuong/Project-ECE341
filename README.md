@@ -7,6 +7,7 @@ Given an input file, we should generate a Prefix.txt/Postfix.txt for storing the
 and Result.txt for storing calculated result.
 
 Eg:Given a input.txt with format below
+
 #----------------------------------------------------------#
 Prefix 
 
