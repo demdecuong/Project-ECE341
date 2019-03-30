@@ -9,19 +9,29 @@ and Result.txt for storing calculated result.
 Eg:
 
 *Input
+
 Prefix
+
 (2+3)*5
+
 4*12/3+1
+
 5*(2+3)
 
 *Output
 
 Prefix.txt 
-** + 2 3 5 
-** 4 + / 12 3 1 
-** 5 + 2 3 
+
+* + 2 3 5 
+
+* 4 + / 12 3 1 
+
+* 5 + 2 3 
 
 Result.txt
+
 25
+
 17
+
 25
