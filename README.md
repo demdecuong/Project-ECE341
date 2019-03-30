@@ -8,7 +8,7 @@ and Result.txt for storing calculated result.
 
 Eg:Given a input.txt with format below
 #----------------------------------------------------------#
-Prefix
+Prefix 
 
 (2+3)*5
 
